@@ -1,2 +1,2 @@
-﻿# Proyecto ISUR - Rama de Desarrollo
+﻿# Proyecto ISUR
 Aplicación de Prueba con Git
